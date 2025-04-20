@@ -1,16 +1,33 @@
-## Hi there 👋
+# Max Heitzman
 
-<!--
-**maxheitzman/maxheitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a Math minor, currently building projects in Python and C. I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Lexical Analyzer](https://github.com/maxheitzman/lexical-analyzer)  
+  Built in C. Scans source code and classifies tokens like keywords, operators, and identifiers.
+
+- [Syntax Parser](https://github.com/maxheitzman/syntax-parser)  
+  Handwritten recursive descent parser for validating language structure using BNF grammar rules.
+
+- [Multiprocessor](https://github.com/maxheitzman/multiprocessor)  
+  Two-phase cellular automaton simulator with both serial and parallel Python implementations using multiprocessing.
+
+---
+
+## Interests
+
+- Programming Languages & Compilers  
+- Parallel Processing & Optimization  
+- Tech Sales and Solutions Engineering  
+- Learning by building
+
+---
+
+## Contact
+
+- Lubbock, TX  
+- [LinkedIn](https://www.linkedin.com/in/maxheitzman)  
+- [GitHub Profile](https://github.com/maxheitzman)
