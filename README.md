@@ -1,7 +1,8 @@
+<h2 align="center">Max Heitzman</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxheitzman/maxheitzman/main/github_banner.png" alt="Max Heitzman Banner" width="500">
+  Computer Science · Tech Sales Focus · AWS Cloud Learner <br>
+  C + Python Projects · Parallel Programming · Customer-First Thinking
 </p>
-
 
 # Max Heitzman
 
