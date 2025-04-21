@@ -4,8 +4,6 @@
   C + Python Projects · Parallel Programming · Customer-First Thinking
 </p>
 
-# Max Heitzman
-
 I'm a Computer Science student with a Math minor, currently building projects in Python and C. I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
 
 ---
