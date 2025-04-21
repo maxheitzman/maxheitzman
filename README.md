@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maxheitzman/maxheitzman/main/github_banner.png" alt="Max Heitzman Banner" width="100%">
+</p>
 # Max Heitzman
 
 I'm a Computer Science student with a Math minor, currently building projects in Python and C. I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
