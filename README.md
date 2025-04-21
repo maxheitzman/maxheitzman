@@ -1,37 +1,44 @@
 <h2 align="center">Max Heitzman</h2>
+
 <p align="center">
-  Computer Science · Tech Sales Focus · AWS Cloud Learner <br>
+  Computer Science · Tech Sales Focus · AWS Cloud Learner  <br>
   C + Python Projects · Parallel Programming · Customer-First Thinking
 </p>
 
-I'm a Computer Science student with a Math minor, currently building projects in Python and C. I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
+---
+
+### About Me
+
+I'm a Computer Science student with a Math minor, currently building projects in Python and C.  
+I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
 
 ---
 
-## Projects
+### Projects
 
-- [Lexical Analyzer](https://github.com/maxheitzman/lexical-analyzer)  
+- [**Lexical Analyzer**](https://github.com/maxheitzman/Lexical-Analyzer)  
   Built in C. Scans source code and classifies tokens like keywords, operators, and identifiers.
 
-- [Syntax Parser](https://github.com/maxheitzman/syntax-parser)  
+- [**Syntax Parser**](https://github.com/maxheitzman/Syntax-Parser)  
   Handwritten recursive descent parser for validating language structure using BNF grammar rules.
 
-- [Multiprocessor](https://github.com/maxheitzman/multiprocessor)  
+- [**Multiprocessor**](https://github.com/maxheitzman/Multiprocessor)  
   Two-phase cellular automaton simulator with both serial and parallel Python implementations using multiprocessing.
 
 ---
 
-## Interests
+### Interests
 
 - Programming Languages & Compilers  
 - Parallel Processing & Optimization  
 - Tech Sales and Solutions Engineering  
-- Learning by building
+- Learning by Building
 
 ---
 
-## Contact
+### Contact
 
-- Lubbock, TX  
-- [LinkedIn](https://www.linkedin.com/in/maxheitzman)  
-- [GitHub Profile](https://github.com/maxheitzman)
+- Location: Lubbock, TX  
+- LinkedIn: [linkedin.com/in/maxheitzman](https://linkedin.com/in/maxheitzman)  
+- GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)  
+- Resume: [View PDF](https://github.com/maxheitzman/maxheitzman/blob/main/Max_Heitzman_Resume.pdf)
