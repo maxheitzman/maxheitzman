@@ -55,8 +55,7 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 - LinkedIn: [linkedin.com/in/maxheitzman](https://linkedin.com/in/maxheitzman)  
 - GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)
 
-  
-
+---
 - ### 📄 Download My Resume (QR Code)
 
 [![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
