@@ -32,10 +32,12 @@ I focus on how low-level logic powers high-level systems — from custom languag
 
 ### Interests
 
+- Artificial Intelligence & Machine Learning  
+- Applied AI in Business & Industry  
 - Programming Languages & Compilers  
-- Parallel Processing & Optimization  
-- Tech Sales and Solutions Engineering  
+- Parallel Processing & Optimization    
 - Learning by Building
+
 
 ---
 
