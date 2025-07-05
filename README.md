@@ -1,10 +1,4 @@
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
-
-### 📄 Download My Resume (QR Code)
-
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
-
-
 <h2 align="center">Max Heitzman</h2>
 
 <p align="center">
@@ -60,6 +54,11 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 - Location: Lubbock, TX  
 - LinkedIn: [linkedin.com/in/maxheitzman](https://linkedin.com/in/maxheitzman)  
 - GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)  
-- Resume: [View PDF](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+
+- ### 📄 Download My Resume (QR Code)
+
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+
+
 
 
