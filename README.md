@@ -1,8 +1,8 @@
 <h2 align="center">Max Heitzman</h2>
 
 <p align="center">
-  Computer Science · Tech Sales Focus · AWS-Certification in Progress  <br>
-  C + Python Projects · Parallel Programming · Customer-First Thinking
+  Computer Science · Math Minor · AI/ML Graduate Study Track<br>
+  Python & C Projects · Parallel Computing · Applied Artificial Intelligence
 </p>
 
 ---
