@@ -9,8 +9,11 @@
 
 ### About Me
 
-I'm a Computer Science student with a Math minor, currently building projects in Python and C.  
-I focus on how low-level logic powers high-level systems — from custom language compilers to cellular automaton simulators.
+I'm a Computer Science student at Texas Tech with a Math minor, actively building software in C, Python, and Java.
+
+My focus is on how low-level logic and algorithm design power higher-level intelligent systems — from lexical analyzers and syntax parsers to parallel cellular simulations and dynamic programming problems.
+
+Currently preparing for graduate studies in Artificial Intelligence, I'm exploring how compilers, algorithm efficiency, and symbolic reasoning tie into real-world AI foundations.
 
 ---
 
