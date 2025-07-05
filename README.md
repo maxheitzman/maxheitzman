@@ -1,8 +1,10 @@
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+
 <h2 align="center">Max Heitzman</h2>
 
 <p align="center">
-  Computer Science · Math Minor · AI/ML Graduate Study Track<br>
+  <strong>Computer Science · Math Minor · AI/ML Graduate Study Track</strong><br>
   Python & C Projects · Parallel Computing · Applied Artificial Intelligence
 </p>
 
@@ -35,7 +37,6 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 - [**0/1 Knapsack Zoo Trip**](https://github.com/maxheitzman/Knapsack-ZooTrip)  
   Solves the 0/1 knapsack problem using bottom-up dynamic programming. Selects optimal items for maximum biodiversity under weight constraints.
 
-
 ---
 
 ### Interests
@@ -46,20 +47,12 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 - Parallel Processing & Optimization    
 - Learning by Building
 
-
 ---
 
 ### Contact
 
-- Location: Lubbock, TX  
-- LinkedIn: [linkedin.com/in/maxheitzman](https://linkedin.com/in/maxheitzman)  
-- GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)
+📍 Lubbock, TX  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maxheitzman-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/maxheitzman)  
+[![GitHub](https://img.shields.io/badge/GitHub-maxheitzman-black?style=flat-square&logo=github)](https://github.com/maxheitzman)
 
 ---
-- ### 📄 Download My Resume (Click On or Scan QR Code)
-
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
-
-
-
-
