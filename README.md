@@ -25,6 +25,9 @@ I focus on how low-level logic powers high-level systems — from custom languag
 - [**Multiprocessor**](https://github.com/maxheitzman/Multiprocessor)  
   Two-phase cellular automaton simulator with both serial and parallel Python implementations using multiprocessing.
 
+- [**QuickHybridSort Analysis**](https://github.com/maxheitzman/QuickHybridSort-Analysis)  
+  Analyzes performance of a hybrid QuickSort/InsertionSort algorithm and visualizes runtime crossover behavior.
+
 ---
 
 ### Interests
