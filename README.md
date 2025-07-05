@@ -26,7 +26,11 @@ I focus on how low-level logic powers high-level systems — from custom languag
   Two-phase cellular automaton simulator with both serial and parallel Python implementations using multiprocessing.
 
 - [**QuickHybridSort Analysis**](https://github.com/maxheitzman/QuickHybridSort-Analysis)  
-  Analyzes performance of a hybrid QuickSort/InsertionSort algorithm and visualizes runtime crossover behavior.
+  Analyzes performance of a hybrid QuickSort/InsertionSort algorithm. Benchmarks crossover threshold and visualizes runtime behavior.
+
+- [**0/1 Knapsack Zoo Trip**](https://github.com/maxheitzman/Knapsack-ZooTrip)  
+  Solves the 0/1 knapsack problem using bottom-up dynamic programming. Selects optimal items for maximum biodiversity under weight constraints.
+
 
 ---
 
