@@ -53,7 +53,9 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 
 - Location: Lubbock, TX  
 - LinkedIn: [linkedin.com/in/maxheitzman](https://linkedin.com/in/maxheitzman)  
-- GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)  
+- GitHub: [github.com/maxheitzman](https://github.com/maxheitzman)
+
+  
 
 - ### 📄 Download My Resume (QR Code)
 
