@@ -1,3 +1,5 @@
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+
 <h2 align="center">Max Heitzman</h2>
 
 <p align="center">
