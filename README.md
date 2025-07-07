@@ -1,5 +1,5 @@
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)](https://raw.githubusercontent.com/maxheitzman/gradschool-resume/main/GraduateSchoolResume%20%2816%29.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/Max_Heitzman_Resume.pdf)
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/Max_Heitzman_Resume.pdf)](https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/Max_Heitzman_Resume.pdf)
 
 <h2 align="center">Max Heitzman</h2>
 
@@ -56,3 +56,4 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 [![GitHub](https://img.shields.io/badge/GitHub-maxheitzman-black?style=flat-square&logo=github)](https://github.com/maxheitzman)
 
 ---
+
