@@ -1,5 +1,5 @@
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/RESUME.pdf)
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/RESUME.pdf)](https://raw.githubusercontent.com/maxheitzman/max-heitzman-resume/main/RESUME.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)
 
 <h2 align="center">Max Heitzman</h2>
 
@@ -54,5 +54,6 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 📍 Lubbock, TX  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxheitzman-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/maxheitzman)  
 [![GitHub](https://img.shields.io/badge/GitHub-maxheitzman-black?style=flat-square&logo=github)](https://github.com/maxheitzman)
+ack?style=flat-square&logo=github)](https://github.com/maxheitzman)
 
 ---
