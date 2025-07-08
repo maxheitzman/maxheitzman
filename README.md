@@ -54,6 +54,3 @@ Currently preparing for graduate studies in Artificial Intelligence, I'm explori
 📍 Lubbock, TX  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxheitzman-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/maxheitzman)  
 [![GitHub](https://img.shields.io/badge/GitHub-maxheitzman-black?style=flat-square&logo=github)](https://github.com/maxheitzman)
-ack?style=flat-square&logo=github)](https://github.com/maxheitzman)
-
----
