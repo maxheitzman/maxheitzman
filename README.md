@@ -1,4 +1,7 @@
 # Max Heitzman
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/Max_Heitzman_Resume.pdf)
+
 
 **Computer Science Graduate · Math Minor · Technical Leadership · AI/ML Specialist**
 
