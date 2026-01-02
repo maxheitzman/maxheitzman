@@ -24,19 +24,14 @@ I'm passionate about roles where I can leverage my technical depth (from low-lev
 
 ## 🚀 Featured Projects
 
-### [Robot System Call Analysis Platform](https://github.com/maxheitzman/robot-system-call-analysis-platform)
-**Capstone Project** - Real-time monitoring system for autonomous robotic systems
+### [Robot System Call Analysis Platform (Husky Dashboard)](https://github.com/maxheitzman/husky-dashboard)
+**Capstone Project** - Real-time monitoring system for autonomous robotic systems with GPS anomaly detection
 - Led team in developing LSTM-based anomaly detection (94% accuracy)
+- Designed GPS prediction models (LSTM, IMU-based) for sensor data poisoning detection
+- Implemented boundary detection systems for falsification prevention
 - Coordinated ROS sensor data processing and validation
-- Designed multi-user dashboard with role-based access
-- **Tech:** Python, Flask, TensorFlow, ROS, PostgreSQL
-
-### [Husky Dashboard](https://github.com/maxheitzman/husky-dashboard)
-**GPS Anomaly Detection** - Enhanced sensor data poisoning detection system
-- Designed GPS prediction models (LSTM, IMU-based)
-- Implemented boundary detection systems for falsification
-- Built real-time processing and visualization pipeline
-- **Tech:** Python, Flask, ROS, Machine Learning
+- Built real-time processing and visualization pipeline with multi-user dashboard
+- **Tech:** Python, Flask, TensorFlow, ROS, PostgreSQL, Machine Learning
 
 ### [Generative AI Projects](https://github.com/maxheitzman/Generative-AI)
 **Complete ML Pipeline** - Implementations of modern generative models
