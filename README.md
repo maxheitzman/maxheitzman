@@ -2,6 +2,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/ResumeAfterGraduationJan2.pdf)
 
 [![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/ResumeAfterGraduationJan2.pdf)](https://raw.githubusercontent.com/maxheitzman/Resume_Updated/main/ResumeAfterGraduationJan2.pdf)
+
 **Computer Science Graduate · Math Minor · Technical Leadership · AI/ML Specialist**
 
 System Design · Client-Facing Technical Roles · Full-Stack Development · Team Coordination
